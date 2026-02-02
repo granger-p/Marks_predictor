@@ -1,1 +1,1 @@
-# Marks_predictor
+This project implements a Linear Regression model using scikit-learn to model and predict student marks based on hours studied, including data preprocessing with Pandas and visualization with Matplotlib.
